@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>show_lyric</class>
+ <widget class="QMainWindow" name="show_lyric">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>983</width>
+    <height>879</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout" columnstretch="0">
+    <property name="leftMargin">
+     <number>11</number>
+    </property>
+    <property name="spacing">
+     <number>5</number>
+    </property>
+    <item row="0" column="0">
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>938</width>
+         <height>1541</height>
+        </rect>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_2">
+        <item row="0" column="0">
+         <widget class="QLabel" name="tittle">
+          <property name="font">
+           <font>
+            <family>Bree Serif</family>
+            <pointsize>20</pointsize>
+            <weight>50</weight>
+            <italic>false</italic>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>DUYÊN PHẬN -NHƯ QUỲNH</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QLabel" name="lyrics">
+          <property name="font">
+           <font>
+            <pointsize>13</pointsize>
+            <italic>false</italic>
+            <strikeout>false</strikeout>
+            <kerning>true</kerning>
+           </font>
+          </property>
+          <property name="text">
+           <string>Bài hát: Duyên Phận 
+Ca sĩ: Như Quỳnh 
+
+Phận là con gái, chưa một lần yêu ai 
+Nhìn về tương lai mà thấy như sông rộng đường dài 
+Cảnh nhà neo đơn, bầy em chưa lớn trĩu đôi vai gánh nhọc nhằn 
+Thầy mẹ thương em nhờ tìm người se duyên 
+Lòng cầu mong em đậu bến cho yên một bóng thuyền 
+Lứa đôi tình duyên còn chưa lưu luyến 
+Sợ người ta đến em khóc sau bao lời khuyên 
+
+Chưa yêu lần nao biết ra làm sao 
+Biết trong tình yêu như thế nào 
+Sông sâu là bao nào đo được đâu 
+Lòng người ta ai biết có dài lâu 
+Qua bao thời gian sống trong bình an 
+Lỡ yêu người ta gieo trái ngang 
+Nông sâu tùy sông làm sao mà trông 
+Chưa đổ bến biết nơi nào đục trong 
+
+Rồi người ta đến theo họ hàng đôi bên 
+Một ngày nên duyên một bước em nên người vợ hiền 
+Bỏ lại sau lưng bầy em ngơ ngác đứng trông theo mắt đượm buồn 
+Thầy mẹ vui hơn mà lệ tràn rưng rưng 
+Dặn dò con yêu phải sống theo gia đạo bên chồng 
+Bước qua dòng sông hỏi từng con sóng 
+Đời người con gái không muốn yêu ai được không???Bài hát: Duyên Phận 
+Ca sĩ: Như Quỳnh 
+
+Phận là con gái, chưa một lần yêu ai 
+Nhìn về tương lai mà thấy như sông rộng đường dài 
+Cảnh nhà neo đơn, bầy em chưa lớn trĩu đôi vai gánh nhọc nhằn 
+Thầy mẹ thương em nhờ tìm người se duyên 
+Lòng cầu mong em đậu bến cho yên một bóng thuyền 
+Lứa đôi tình duyên còn chưa lưu luyến 
+Sợ người ta đến em khóc sau bao lời khuyên 
+
+Chưa yêu lần nao biết ra làm sao 
+Biết trong tình yêu như thế nào 
+Sông sâu là bao nào đo được đâu 
+Lòng người ta ai biết có dài lâu 
+Qua bao thời gian sống trong bình an 
+Lỡ yêu người ta gieo trái ngang 
+Nông sâu tùy sông làm sao mà trông 
+Chưa đổ bến biết nơi nào đục trong 
+
+Rồi người ta đến theo họ hàng đôi bên 
+Một ngày nên duyên một bước em nên người vợ hiền 
+Bỏ lại sau lưng bầy em ngơ ngác đứng trông theo mắt đượm buồn 
+Thầy mẹ vui hơn mà lệ tràn rưng rưng 
+Dặn dò con yêu phải sống theo gia đạo bên chồng 
+Bước qua dòng sông hỏi từng con sóng 
+Đời người con gái không muốn yêu ai được không???</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QPushButton" name="pushButton">
+          <property name="text">
+           <string>CLICK ĐỂ NGHE NHẠC ONLINE</string>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>20</width>
+            <height>20</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
