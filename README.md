@@ -18,7 +18,7 @@ pip install underthesea
 pip install PyQt5
 
 
-Các bước sử dụng:
+---------Các bước sử dụng---------
 
 B1: crawl dữ liệu: (xài dữ liệu đã crawl sẵn thì bỏ qua bước này, còn không phải update lại file crawl.py vì trang web được crawl thay đổi theo thời gian)
 mở cmd nhập lệnh sau: python crawl.py 
