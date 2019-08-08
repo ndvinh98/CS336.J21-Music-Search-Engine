@@ -45,4 +45,4 @@ mở cmd trong thư mục nhập lệnh sau: python main.py
 
 sau đó nhập câu truy vấn
 
-![image](https://imgur.com/a/lUstZat)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/lUstZat"><a href="//imgur.com/a/lUstZat"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
