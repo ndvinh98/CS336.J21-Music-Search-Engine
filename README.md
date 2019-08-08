@@ -1,4 +1,5 @@
 ﻿# CS336.J21-Music-Search-Engine
+Xây dựng 1 search engine đơn giản dựa trên mô hình BOW bằng python3
 
 Code editor sử dụng cho đồ án này là Visual studio Code
 
