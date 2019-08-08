@@ -7,7 +7,9 @@ Code editor sử dụng cho đồ án này là Visual studio Code
 
 Các phương thức crawl dữ liệu trình bày ở file crawl.py
 
-Các phương thức xây dựng, xử lí dữ liệu trình bày ở file indexing.py
+Các phương thức chuẩn hoá chuỗi, tách từ trình bày ở file textprocessing.py
+
+Các phương thức xây dựng, đánh chỉ mục cho dữ liệu trình bày ở file indexing.py
 
 Các phương thức xây dựng GUI, truy vấn, xếp hạng kết quả trình bày ở file main.py
 
