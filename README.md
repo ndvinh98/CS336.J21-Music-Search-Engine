@@ -6,13 +6,18 @@ Code editor sử dụng cho đồ án này là Visual studio Code
 Để chạy được chương trình cần cài đặt các packpage sau bằng cách mở cmd, nhập lần lượt các dòng lệnh dưới đây:
 
 pip install requests
+
 pip install beautifulsoup4
+
 pip install selenium
+
 pip install underthesea
+
 pip install PyQt5
 
 
 Các bước sử dụng:
+
 B1: crawl dữ liệu: (xài dữ liệu đã crawl sẵn thì bỏ qua bước này, còn không phải update lại file crawl.py vì trang web được crawl thay đổi theo thời gian)
 mở cmd nhập lệnh sau: python crawl.py 
 
