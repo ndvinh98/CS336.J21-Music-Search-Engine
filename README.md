@@ -44,3 +44,5 @@ B3: truy vấn
 mở cmd trong thư mục nhập lệnh sau: python main.py
 
 sau đó nhập câu truy vấn
+
+<img src="https://imgur.com/a/lUstZat">
