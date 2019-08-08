@@ -45,4 +45,4 @@ mở cmd trong thư mục nhập lệnh sau: python main.py
 
 sau đó nhập câu truy vấn
 
-[img]https://i.imgur.com/xSvD9fD.png[/img]
+<img src="https://i.imgur.com/xSvD9fD.png">
