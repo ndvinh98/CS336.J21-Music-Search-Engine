@@ -43,7 +43,7 @@ Step 2: Build Data, inverted_index: (If using existing crawled data, skip this s
 
 Step 3: start GUI
 
- `python query.py `
+ `python main.py `
 
 ### Demo
 <img src="https://i.imgur.com/xSvD9fD.png">
