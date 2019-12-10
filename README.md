@@ -1,5 +1,5 @@
 ﻿# CS336.J21-Music-Search-Engine
-  Build a simple search engine based on the BOW model in python3
+  Build a simple search engine based on TF-IDF
 
 ### Introduction
 
