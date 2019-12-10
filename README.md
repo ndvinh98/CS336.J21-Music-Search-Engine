@@ -30,7 +30,7 @@
   pip install PyQt5
 
 
----------How to run---------
+### How to run
 
 Step1: Crawl data: (If using existing crawled data, skip this step)
 
@@ -45,5 +45,5 @@ B3: start GUI
 
  `python query.py `
 
-
+### Demo
 <img src="https://i.imgur.com/xSvD9fD.png">
