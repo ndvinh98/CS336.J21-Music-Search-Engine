@@ -7,7 +7,7 @@ The code editor used for this project is the Visual studio Code
 
 The crawl methods, is presented in crawl.py
 
-The string normalization method, are presented in textprocessing.py file
+The string normalization method, are presented in textprocessing.py
 
 The construction methods, indexing data, are presented in indexing.py
 
