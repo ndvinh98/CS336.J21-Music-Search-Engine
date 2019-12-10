@@ -1,7 +1,7 @@
 ﻿# CS336.J21-Music-Search-Engine
   Build a simple search engine based on the BOW model in python3
 
-###Introduction
+### Introduction
 
   The data is crawled from the top-100-song chart in nhaccuatui.com
 
@@ -17,7 +17,7 @@
 
 ---------------------------------------------------------------------------------------------------------
 
-###You will need to install some package:
+### You will need to install some package:
 
   pip install requests
 
