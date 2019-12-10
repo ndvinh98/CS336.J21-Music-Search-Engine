@@ -1,31 +1,33 @@
 ﻿# CS336.J21-Music-Search-Engine
-Build a simple search engine based on the BOW model in python3
+  Build a simple search engine based on the BOW model in python3
 
-The data is crawled from the top-100-song chart in nhaccuatui.com
+###Introduction
 
-The code editor used for this project is the Visual studio Code
+  The data is crawled from the top-100-song chart in nhaccuatui.com
 
-The crawl methods, is presented in crawl.py
+  The code editor used for this project is the Visual studio Code
 
-The string normalization method, are presented in textprocessing.py
+  The crawl methods, is presented in crawl.py
 
-The construction methods, indexing data, are presented in indexing.py
+  The string normalization method, are presented in textprocessing.py
 
-The methods of building GUI, querying, ranking results, are presented in main.py 
+  The construction methods, indexing data, are presented in indexing.py
+
+  The methods of building GUI, querying, ranking results, are presented in main.py 
 
 ---------------------------------------------------------------------------------------------------------
 
-You will need to install some package:
+###You will need to install some package:
 
-pip install requests
+  pip install requests
 
-pip install beautifulsoup4
+  pip install beautifulsoup4
 
-pip install selenium
+  pip install selenium
 
-pip install underthesea
+  pip install underthesea
 
-pip install PyQt5
+  pip install PyQt5
 
 
 ---------How to run---------
