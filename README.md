@@ -32,16 +32,16 @@
 
 ### How to run
 
-Step1: Crawl data: (If using existing crawled data, skip this step)
+Step 1: Crawl data: (If using existing crawled data, skip this step)
 
   `python crawl.py `
 
 
-Step2: Build Data, inverted_index: (If using existing crawled data, skip this step)
+Step 2: Build Data, inverted_index: (If using existing crawled data, skip this step)
 
   `python indexing.py `
 
-B3: start GUI
+Step 3: start GUI
 
  `python query.py `
 
