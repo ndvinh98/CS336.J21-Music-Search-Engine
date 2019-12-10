@@ -28,14 +28,14 @@ pip install underthesea
 pip install PyQt5
 
 
----------Các bước sử dụng---------
+---------How to run---------
 
 Step1: Crawl data: (If using existing crawled data, skip this step)
 
   `python crawl.py `
 
 
-Step2: Build Data, inverted_index:
+Step2: Build Data, inverted_index: (If using existing crawled data, skip this step)
 
   `python indexing.py `
 
